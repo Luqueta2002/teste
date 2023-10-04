@@ -1,0 +1,32 @@
+body{background-color: aqua ;}
+
+
+P{
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+
+}
+
+img {
+
+    width: 150px;
+    height: 100px;
+
+}
+
+.img1 {
+
+    border: 2px solid rgb(0, 0, 0);
+}
+.titulo { background-color: #000000; color: #ffffff;
+}
+
+.texto1 {
+
+    color: #ffffff;
+
+}
+
+.texto2 {
+    color: #ffffff;
+    text-align: start;
